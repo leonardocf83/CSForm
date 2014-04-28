@@ -1,0 +1,42 @@
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.exe
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.pdb
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.exe
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.pdb
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.dll
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.pdb
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSApplicationSample.exe
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSApplicationSample.pdb
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSForms.dll
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSForms.pdb
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\ResolveAssemblyReference.cache
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\CSApplicationSample.exe
+C:\Leonardo\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\CSApplicationSample.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\CSApplicationSample.exe
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\CSApplicationSample.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSApplicationSample.exe
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSApplicationSample.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSForms.dll
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Release\CSForms.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Release\ResolveAssemblyReference.cache
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.exe
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.exe
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.dll
+L:\PROJETO\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.pdb
+L:\PROJETO\ConsoleWindow\CSApplicationSample\obj\Debug\ResolveAssemblyReference.cache
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.exe
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.pdb
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.exe
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.pdb
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.dll
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.pdb
+L:\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\ResolveAssemblyReference.cache
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.exe
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\CSApplicationSample.pdb
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.exe
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSApplicationSample.pdb
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.dll
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\bin\Debug\CSForms.pdb
+L:\Profissional\Console Window Application\ConsoleWindow\CSApplicationSample\obj\Debug\ResolveAssemblyReference.cache

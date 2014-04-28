@@ -1,0 +1,6 @@
+K:\FONTES\CSForm\CSApplicationSample\obj\Debug\CSApplicationSample.exe
+K:\FONTES\CSForm\CSApplicationSample\obj\Debug\CSApplicationSample.pdb
+K:\FONTES\CSForm\CSApplicationSample\bin\Debug\CSApplicationSample.exe
+K:\FONTES\CSForm\CSApplicationSample\bin\Debug\CSApplicationSample.pdb
+K:\FONTES\CSForm\CSApplicationSample\bin\Debug\CSForms.pdb
+K:\FONTES\CSForm\CSApplicationSample\obj\Debug\CSApplicationSample.csprojResolveAssemblyReference.cache
